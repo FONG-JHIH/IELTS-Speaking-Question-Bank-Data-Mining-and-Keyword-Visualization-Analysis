@@ -1,0 +1,2 @@
+# IELTS_SPEAK-Keyword-Frequency-Analysis-wordcloud
+Project Overview This project analyzes the common English keywords from the IELTS SPEAK document "【完整版口语题库-题目版】2024年9-12月口语题库-新.pdf". Using stopword filtering and text processing techniques, the program generates keyword frequency analysis results and visualizes them as a word cloud, offering an intuitive way to explore the most important keywords.
